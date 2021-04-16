@@ -127,7 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#API pulls
 config.py
 config
-api_key
+api_keys.py
+api_keys
 api_key.py
+api_key
+__pycache__
+.ipynb_checkpoints
