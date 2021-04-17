@@ -1,0 +1,76 @@
+,Key,President,Service Start,Service End,Cabinet Appointment,Appointee Name
+860,861,Obama,2009-01-20,2017-01-20,President,Barack Obama
+861,862,Obama,2009-01-20,2017-01-20,Vice President,Joe Biden
+862,863,Obama,2009-01-21,2013-02-01,Secretary of State,Hillary Clinton
+863,864,Obama,2013-02-01,2017-01-20,Secretary of State,John Kerry
+864,865,Obama,2009-01-26,2013-01-25,Secretary of Treasury,Tim Geithner
+865,866,Obama,2013-02-28,2017-01-20,Secretary of Treasury,Jack Lew
+866,867,Obama,2009-01-20,2011-06-30,Secretary of Defense,Bob Gates
+867,868,Obama,2011-07-01,2013-02-26,Secretary of Defense,Leon Panetta
+868,869,Obama,2013-02-27,2015-02-17,Secretary of Defense,Chuck Hagel
+869,870,Obama,2015-02-17,2017-01-19,Secretary of Defense,Ash Carter
+870,871,Obama,2009-02-03,2015-04-27,Attorney General,Eric Holder
+871,872,Obama,2015-04-27,2017-01-20,Attorney General,Loretta Lynch
+872,873,Obama,2009-01-20,2013-04-12,Secretary of the Interior,Ken Salazar
+873,874,Obama,2013-04-12,2017-01-20,Secretary of the Interior,Sally Jewell
+874,875,Obama,2009-01-20,2017-01-20,Secretary of Agriculture,Tom Vilsack
+875,876,Obama,2009-03-26,2011-08-01,Secretary of Commerce,Gary Locke
+876,877,Obama,2011-10-21,2012-06-21,Secretary of Commerce,John Bryson
+877,878,Obama,2013-06-26,2017-01-20,Secretary of Commerce,Penny Pritzker
+878,879,Obama,2009-02-24,2013-01-22,Secretary of Labor,Hilda Solis
+879,880,Obama,2013-07-23,2017-01-20,Secretary of Labor,Thomas Perez
+880,881,Obama,2009-04-28,2014-06-09,Secretary of Health and Human Services,Kathleen Sebelius
+881,882,Obama,2014-06-09,2017-01-20,Secretary of Health and Human Services,Sylvia Burwell
+882,883,Obama,2009-01-21,2015-12-31,Secretary of Education,Arne Duncan
+883,884,Obama,2016-01-01,2017-01-20,Secretary of Education,John King Jr.
+884,885,Obama,2014-08-05,2017-01-20,Secretary of Housing and Urban Development,Shaun Donovan
+885,886,Obama,2014-07-28,2017-01-20,Secretary of Housing and Urban Development,Julian Castro
+886,887,Obama,2009-01-23,2013-07-02,Secretary of Transportation,Ray LaHood
+887,888,Obama,2013-07-02,2017-01-20,Secretary of Transportation,Anthony Foxx
+888,889,Obama,2009-01-21,2013-04-22,Secretary of Energy,Steven Chu
+889,890,Obama,2013-05-21,2017-01-20,Secretary of Energy,Ernest Moniz
+890,891,Obama,2009-01-21,2014-05-30,Secretary of Veterans' Affairs,Eric Shinseki
+891,892,Obama,2014-07-30,2017-01-20,Secretary of Veterans' Affairs,Bob A. McDonald
+892,893,Obama,2009-01-21,2013-09-06,Secretary of Homeland Security,Janet Napolitano
+893,894,Obama,2013-12-23,2017-01-20,Secretary of Homeland Security,Jeh Johnson
+894,895,Obama,2009-01-20,2010-07-30,Director of the Office of Management and Budget,Peter Orszag
+895,896,Obama,2010-07-30,2010-11-18,Director of the Office of Management and Budget,Jeffrey Zients
+896,897,Obama,2012-01-27,2013-04-24,Director of the Office of Management and Budget,Jeffrey Zients
+897,898,Obama,2010-11-18,2012-01-27,Director of the Office of Management and Budget,Jack Lew
+898,899,Obama,2013-04-24,2014-06-09,Director of the Office of Management and Budget,Sylvia Burwell
+899,900,Obama,2014-06-09,2014-07-28,Director of the Office of Management and Budget,Brian Deese
+900,901,Obama,2014-07-28,2017-01-20,Director of the Office of Management and Budget,Shaun Donovan
+901,902,Obama,2009-01-28,2010-09-03,Chairmain of the Council of Economic Advisors,Christina Romer
+902,903,Obama,2010-09-10,2011-08-05,Chairmain of the Council of Economic Advisors,Austan Goolsbee
+903,904,Obama,2011-11-07,2013-08-02,Chairmain of the Council of Economic Advisors,Alan Krueger
+904,905,Obama,2013-08-02,2017-01-20,Chairmain of the Council of Economic Advisors,Jason Furman
+905,906,Obama,2009-01-20,2009-05-07,Director of the Office of National Drug Control Policy,Ed Jurith
+906,907,Trump,2017-01-20,2020-01-20,President,Donald Trump
+907,908,Trump,2017-01-20,2020-01-20,Vice President,Mike Pence
+908,909,Trump,2017-02-01,2018-03-31,Secretary of State,Rex Tillerson
+909,910,Trump,2018-04-26,,Secretary of State,Mike Pompeo
+910,911,Trump,2017-02-13,,Secretary of Treasury,Steven Mnuchin
+911,912,Trump,2017-01-20,2019-01-01,Secretary of Defense,James Mattis
+912,913,Trump,2019-07-23,,Secretary of Defense,Mark Esper
+913,914,Trump,2017-02-09,2018-11-07,Attorney General,Jeff Sessions
+914,915,Trump,2019-02-14,,Attorney General,William Barr
+915,916,Trump,2017-03-01,2019-02-02,Secretary of the Interior,Ryan Zinke
+916,917,Trump,2019-04-11,,Secretary of the Interior,David Bernhardt
+917,918,Trump,2017-04-25,,Secretary of Agriculture,Sonny Perdue
+918,919,Trump,2017-02-28,,Secretary of Commerce,Wilbur Ross
+919,920,Trump,2017-04-28,2019-07-19,Secretary of Labor,Alexander Acosta
+920,921,Trump,2019-09-26,,Secretary of Labor,Eugene Scalia
+921,922,Trump,2017-02-10,2017-09-29,Secretary of Health and Human Services,Tom Price
+922,923,Trump,2018-01-29,,Secretary of Health and Human Services,Alex Azar
+923,924,Trump,2017-02-07,,Secretary of Education,Betsy DeVos
+924,925,Trump,2017-03-02,,Secretary of Housing and Urban Development,Ben Carson
+925,926,Trump,2017-01-31,,Secretary of Transportation,Elaine L. Chao
+926,927,Trump,2017-03-02,2019-12-01,Secretary of Energy,Rick Perry
+927,928,Trump,2019-12-02,,Secretary of Energy,Dan Brouillette
+928,929,Trump,2017-02-14,2018-03-28,Secretary of Veterans Affairs,David Shulkin
+929,930,Trump,2018-07-30,,Secretary of Veterans Affairs,Robert Wilkie
+930,931,Trump,2017-01-20,2017-07-31,Secretary of Homeland Security,John F. Kelly
+931,932,Trump,2017-07-31,2017-12-06,Secretary of Homeland Security,Elaine Duke
+932,933,Trump,2017-12-06,2019-04-10,Secretary of Homeland Security,Kirstjen Nielsen
+933,934,Trump,2019-04-11,2019-11-13,Secretary of Homeland Security,Kevin McAleenan
+934,935,Trump,2019-11-13,,Secretary of Homeland Security,Chad Wolf
