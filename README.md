@@ -1,5 +1,5 @@
-ETL Project:
-Impact of Presidential Events on the U.S. Stock Market
+# ETL Project:
+# Impact of Presidential Events on the U.S. Stock Market
 
 April 17, 2021
 
